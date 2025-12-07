@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "edamame",
+  "base_artist": "bbno$",
+  "createdAt": "2025-12-07T11:58:26.671365Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$ feat. Rich Brian",
+      "has_synced": true,
+      "path": "select/01_edamame_(feat._Rich_Brian)_bbno$_feat._Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "edamame",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/02_edamame_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "edamame",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/03_edamame_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian) - Diplo Remix",
+      "artist": "bbno$ feat. Rich Brian & Diplo",
+      "has_synced": true,
+      "path": "select/04_edamame_(feat._Rich_Brian)_-_Diplo_Remix_bbno$_feat._Rich_Brian_&_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "edamame (Diplo Remix)",
+      "artist": "bbno$",
+      "has_synced": false,
+      "path": "select/05_edamame_(Diplo_Remix)_bbno$.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "edamame",
+      "artist": "bbno$/Rich Brian",
+      "has_synced": true,
+      "path": "select/06_edamame_bbno$_Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Edamame",
+      "artist": "Bbno$, Rich Brian",
+      "has_synced": true,
+      "path": "select/07_Edamame_Bbno$,_Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$/Rich Brian",
+      "has_synced": true,
+      "path": "select/08_edamame_(feat._Rich_Brian)_bbno$_Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "edamame",
+      "artist": "bbno$\u0000Rich Brian",
+      "has_synced": true,
+      "path": "select/09_edamame_bbno$\u0000Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/10_edamame_(feat._Rich_Brian)_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/11_edamame_(feat._Rich_Brian)_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "edamame (ft. Rich Brian)",
+      "artist": "bbno$",
+      "has_synced": true,
+      "path": "select/12_edamame_(ft._Rich_Brian)_bbno$.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "edamame (feat. Rich Brian)",
+      "artist": "bbno$,Rich Brian",
+      "has_synced": true,
+      "path": "select/13_edamame_(feat._Rich_Brian)_bbno$,Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "edamame",
+      "artist": "bbno$ feat. Rich Brian",
+      "has_synced": true,
+      "path": "select/14_edamame_bbno$_feat._Rich_Brian.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Edamame",
+      "artist": "Bbno$, Rich Brian",
+      "has_synced": true,
+      "path": "select/15_Edamame_Bbno$,_Rich_Brian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "edamame",
+      "artist": "bbno$, Rich Brian",
+      "has_synced": false,
+      "path": "select/pl_01_edamame_bbno$,_Rich_Brian.txt"
+    }
+  ]
+}
